@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+}
+.bloco-1{
+    background-color: black;
+    width: 20%;
+    height: 950px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.foto-perfil {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 100px;
+    border-style: solid;
+    border-color: antiquewhite;
+
+
+}
+.link {
+    color: aliceblue;
+    font-size: 20px;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 20px;
+}
